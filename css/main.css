@@ -63,7 +63,10 @@ html, body {
   margin-left: 1rem; }
 
 .cover {
-  height: 275px; }
+  height: 500px; }
+
+  .cv-cover {
+    height: 275px; }
 
 .cover > img {
   -o-object-fit: cover;
